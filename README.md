@@ -4,7 +4,6 @@
 🚀 Currently:
 - Rebuilding core programming skills in C, C++, and Python
 - Building mini-projects in IoT and Embedded Systems
-- Preparing for PhD applications in LiFi & 6G
 
 📫 Connect with me: 
 LinkedIn(www.linkedin.com/in/sadhanaram) | Email(mailto:sadhanaram69@gmail.com)  
